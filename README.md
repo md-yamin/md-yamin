@@ -6,7 +6,7 @@ As a junior web developer, I am passionate about creating innovative and impactf
 
 # My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?md_yamin=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/md_yamin=DenverCoder1)](https://git.io/streak-stats)
 
 
 # My Skills
