@@ -1,1 +1,5 @@
 <img src="https://i.ibb.co/bm8sChM/Electronic-Medium-Banner.png" alt="WordCloud" width="100%">
+
+# About Me
+As a junior web developer, I am passionate about creating innovative and impactful web experiences. My expertise includes HTML, CSS, JavaScript, Express, React, Node.js, Tailwind CSS, and MongoDB. I thrive on turning ideas into functional and user-friendly digital solutions. I am dedicated to continuous learning and always strive to give my best in what I do.
+
