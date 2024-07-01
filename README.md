@@ -6,8 +6,14 @@ As a junior web developer, I am passionate about creating innovative and impactf
 
 # My Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=md-yamin" alt="GitHub Streak" /></a>
+<div align=center>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-flax-three.vercel.app?user=md-yamin&theme=react" alt="GitHub Streak" /></a>
+ <img src="https://github-readme-stats.vercel.app/api?username=md-yamin&show_icons=true&theme=react&rank_icon=github" />
 
+
+
+
+</div>
 
 # My Skills
 <div align="center">
