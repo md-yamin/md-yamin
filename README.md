@@ -6,7 +6,7 @@ As a junior web developer, I am passionate about creating innovative and impactf
 
 # My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=md-yamin)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=md-yamin" alt="GitHub Streak" /></a>
 
 
 # My Skills
