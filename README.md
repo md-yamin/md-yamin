@@ -6,8 +6,9 @@ As a junior web developer, I am passionate about creating innovative and impactf
 # My Skills
 <div align="center">
  <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?html,css,nodejs,javascript,express"/>
-  <img src="https://skillicons.dev/icons?react,firebase,mongodb,vscode,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,javascript,express"/>
+<br>
+  <img src="https://skillicons.dev/icons?i=react,firebase,mongodb,vscode,github"/>
  </a>
 </div>
 
