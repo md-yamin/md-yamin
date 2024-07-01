@@ -12,7 +12,7 @@ As a junior web developer, I am passionate about creating innovative and impactf
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=express.js&svgfill=f06629">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=(https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg)[express.js]&svgfill=f06629">
 </a>
 
 <a href="https://github.com/harish-sethuraman/readme-components">
