@@ -1,1 +1,1 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=md-yamin.md-yamin"/>
+<img src="https://i.ibb.co/bm8sChM/Electronic-Medium-Banner.png" alt="WordCloud" width="100%">
